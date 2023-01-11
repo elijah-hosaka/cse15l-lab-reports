@@ -8,7 +8,7 @@ Installing
 
     It should look like this: 
 
-    ![VScode website](VSCodeWebsite.png)
+    ![VScode website](VScodeWebsite.png)
 
 2. Click the blue button that says "Download Mac Universal" and follow the intruction to install
 
