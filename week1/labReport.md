@@ -38,16 +38,22 @@ Installing
 
 1. After successfully logging in your remote server, try some commands such as:
 
-    - pwd
-    - ls
-    - cd
-    - cd ~
-    - ls -lat
-    - ls -a
+    - *pwd* 
+        > This command prints out the current working directory.
+    - *ls*
+        > This command lists all the files except hidden ones in your current directory.
+    - *ls -a*
+        > This command lists all the files including hidden ones in your current directory.
+    - *cd (directory path)*
+        > This command changes directory to the (directory path).
+    - *cd ~*
+        > This command changes directory to the home directory.
 
     It should look something like this:
     
     ![Trying commands](TryingCommands.png)
+    
+    In this picture, we are printing (*pwd*) the current working directory and then listing (*ls*) the files in there. Then, we change directories (*cd*) into perl5, and we know this command was successfull because no message printed and the terminal was ready for the next command.
 
 2. When you are done trying commands, log out of the remote server by:
 
