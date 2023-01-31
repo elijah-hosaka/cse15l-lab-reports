@@ -1,6 +1,6 @@
-# UCSD CSE15L Week 1 Lab Report
+# UCSD CSE15L Lab Report 1
 
-Installing
+Installing VScode, Remotely Connecting, and Trying Some Commands.
 
 ## Installing VScode
 
