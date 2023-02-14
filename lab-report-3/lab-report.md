@@ -4,7 +4,7 @@ Week 4 and 5 Labs
 
 ## Researching the command `grep`
 
-> Souce used: https://linuxcommand.org/lc3_man_pages/grep1.html
+> Souce used: [Linux Command Manual](https://linuxcommand.org/lc3_man_pages/grep1.html)
 
 
 ### 1st Option: `-r`, `--recursive`
@@ -319,9 +319,9 @@ travel_guides/berlitz2/Vallarta-WhereToGo.txt:0
 
 **Example B**
 
-> Combined with `-r` to search all subdirectories:
-
 *Input*
+
+> Combined with `-r` to search all subdirectories:
 
 ```shell
 $ grep -r -c "Test"
@@ -583,9 +583,9 @@ travel_guides/berlitz2/Bahamas-History.txt
 
 **Example B**
 
-> Combined with `-r` to search all subdirectories:
-
 *Input*
+
+> Combined with `-r` to search all subdirectories:
 
 ```shell
 $ grep -r -l "Test"
@@ -859,9 +859,9 @@ travel_guides/berlitz2/Vallarta-WhereToGo.txt
 
 **Example B**
 
-> Combined with `-r` to search all subdirectories:
-
 *Input*
+
+> Combined with `-r` to search all subdirectories:
 
 ```shell
 $ grep -r -L "Test"
