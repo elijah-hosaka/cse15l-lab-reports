@@ -86,11 +86,11 @@ The `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.
 
 **Keys pressed**
 
-`git add ListExamples.java`
+`git add ListExamples.java<enter>`
 
-`git commit -m "Update"`
+`git commit -m "Update"<enter>`
 
-`git push`
+`git push<enter>`
 
 **Description**
 
